@@ -1,12 +1,14 @@
+// SPDX-License-Identifier: MIT
+pragma solidity >=0.6.0 < 0.7.0;
+
 contract test {
     int _multiplier;
 
-    function test(int multiplier) {
-        _multiplier = multiplier;
+    constructor(int multiplier) public {
+         _multiplier = multiplier;
     }
 
-
-    function multiply(int val) returns (int d) {
+    function multiply(int val) public view returns (int d) {
         return val * _multiplier;
     }
 
