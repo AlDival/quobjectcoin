@@ -13,7 +13,7 @@ Quobject's goal is to become the worlds number one educational app with a large 
 
 # Reward schedule
 
-Quobjectcoins will be issued on a weekly basis. Beginning with 50000 tokens rewarded every week for the first 210 weeks (4.0274 years). Every 210 weeks the reward will be haved. Similar to bitcoin this schedule will limit the supply to a maximum of 21 million tokens. 
+Quobjectcoins will be issued on a weekly basis. Beginning with 50000 tokens rewarded every week for the first 210 weeks (4.0274 years). Every 210 weeks the reward will be halved. Similar to bitcoin this schedule will limit the supply to a maximum of 21 million tokens. 
 Every Quobjectcoin consists of 100,000,000 Quox (1 with 8 zeroes or 100 Million.) The first issue will be 1st August 2020.
 
 # Reward distribution
